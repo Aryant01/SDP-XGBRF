@@ -52,10 +52,10 @@ pip install numpy pandas matplotlib scikit-learn xgboost
 ### Running the Code
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/software-defect-prediction.git
-   cd software-defect-prediction
+   git clone git@github.com:Aryant01/SDP-XGBRF.git
+   cd SDP-XGBRF
    ```
 2. Place the dataset in the project directory.
 3. Run the script:
    ```sh
-   python software_defect_prediction.py
+   python main.py
